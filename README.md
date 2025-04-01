@@ -19,7 +19,7 @@
 [![Frontend](https://skillicons.dev/icons?i=,html,css,figma)](https://skillicons.dev)  
 
 ### **🛠️ Tools & IDEs**  
-[![Herramientas](https://skillicons.dev/icons?i=vscode,git,github,debian,idea,pycharm,)](https://skillicons.dev)  
+[![Herramientas](https://skillicons.dev/icons?i=vscode,git,github,windows,debian,idea,pycharm,)](https://skillicons.dev)  
 
 ## **🚀 Proyectos Destacados**  
 - **HeartWise** - App movil para la predicción de porblemas cardiovasculares.  
